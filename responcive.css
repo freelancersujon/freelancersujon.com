@@ -1,0 +1,116 @@
+*{margin: 0;padding: 0;}
+
+@media (max-width: 768px){
+
+	div.continear {
+    width: 100%;
+}
+
+div.phone {
+    width: 100%;
+}
+
+div.email {
+    width: 100%;
+}
+.social a {
+    float: left;
+}
+
+.social {
+    float: left;
+}
+.descrip h2 {
+    width: 100%;
+    margin-left: 49px;
+    color: white;
+}
+.descrip p {
+    width: 100%;
+    padding: 29px;
+    align-items: center;
+    color:#eee;
+    font-size: 28px;
+}
+button.hsbtn {
+    width: 213px;
+    margin-left: 112px;
+}
+section#homeslider {
+    width: 100%;
+    background-size: 100%;
+}
+.logo {
+    width: 100%;
+}
+
+.logo img {
+    width: 100%;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.detalsdic {
+    width: 100%;
+    margin: auto;
+}
+
+.detalsdic h2 {
+    margin: auto;
+    padding-left: 15px;
+}
+p {
+    width: 100%;
+    font-size: 16px;
+    padding-left: 15px;
+}
+button.aboutbtn {
+    width: 275px;
+    margin-left: 15px;
+}
+section#my-educated {
+    width: 100%;
+    background: navajowhite;
+}
+.singlebox {
+    margin: auto;
+    margin-top: 30px;
+    width: 274px;
+    margin-left: 25px;
+}
+.singleworkplace {
+    width: 100%;
+    padding-left: 25px;
+}
+.singleimage {
+    width: 100%;
+    padding: 40px;
+}
+
+.singlecopybox {
+    width: 100%;
+    padding-left: 15px;
+}
+footer#footerid {
+    width: 100%;
+    padding: 10px 0px;
+}
+.hmsliderwerper marquee {
+    width: 100%;
+    padding: 0px;
+}
+
+ul.toplist li {
+    float: none;
+    padding: 10px;
+}
+ul.toplist li a{
+	background:black;
+	color: white;
+	font-weight: bold;
+	display: block;
+	font-size: 22px;
+	padding: 10px;
+}
+}
